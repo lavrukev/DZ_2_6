@@ -1,0 +1,13 @@
+.border {
+	border-style: dashed;
+	width: 320px;
+}
+.formula {
+	font-size: 20px;
+}
+.sub {
+	color: blue;
+}
+.sup {
+	color: red;
+}
